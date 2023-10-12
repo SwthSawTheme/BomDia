@@ -94,5 +94,3 @@ def mensagem():
             anjo()
         elif i == 'Sandra':
             sandra()
-        
-    

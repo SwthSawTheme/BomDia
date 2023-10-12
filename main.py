@@ -19,4 +19,4 @@ def main():
     time.sleep(1)
     mensagem()
     
-main()Mae2
+main()
